@@ -1,0 +1,14 @@
+.input-currency{
+    margin-bottom: 15px;
+}
+
+.input-currency input{
+    border-top-left-radius: 0;
+    border-bottom-left-radius: 0;
+}
+
+.input-currency .input-group-addon{
+    border-right: 0;
+    border-top-right-radius: 0;
+    border-bottom-right-radius: 0;
+}

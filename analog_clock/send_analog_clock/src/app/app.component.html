@@ -1,0 +1,6 @@
+<div class="clock">
+    <button (click)="fwdTime()">Forward by 5 Mins</button>
+    <button (click)="backTime()">Backward by 5 Mins</button>
+    <app-analog-clock [hour]="hour" [minute]="minute" [second]="second"></app-analog-clock>
+    <app-digital-clock [hour]="hour" [minute]="minute" [second]="second"></app-digital-clock>
+</div>
