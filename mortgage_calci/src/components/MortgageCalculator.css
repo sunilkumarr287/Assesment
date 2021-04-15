@@ -1,9 +1,0 @@
-.mortgage-calculator__form-body{
-    max-width: 500px;
-    margin: 0 auto;
-}
-
-.mortgage-calculator__form-body div{
-    display: flex;
-    justify-content: space-between;
-}
